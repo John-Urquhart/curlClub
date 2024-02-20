@@ -1,0 +1,12 @@
+/project_root
+    /app
+        /controllers
+        /models
+        /views
+    /public
+        /css
+        /js
+        /images
+    /core
+    .htaccess
+    index.php
